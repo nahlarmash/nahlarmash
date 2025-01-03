@@ -1,7 +1,7 @@
 <h1 align="center"> Greetings, ✨ I’m Nahla Mohamed </h1>
 <h3 align="center"> A passionate Data Engineer From Egypt </h3>
 
-- 🔭 I'm interested in Data Science Feild.
+- 🔭 I'm interested in Data Science Field.
 - 📫 How to reach me? My LinkedIn page: (https://www.linkedin.com/in/nahla-mohamed-177a15173/)
 
 
