@@ -14,6 +14,9 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-417BAF?style=for-the-badge)
 ![Jupyter Notebook](https://img.shields.io/badge/JupyterNotebook-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-196ef7?style=for-the-badge&logo=docker&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-cc501b?style=for-the-badge&logo=apache%20spark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/hadoop-f5c91b?style=for-the-badge&logo=apache&logoColor=white)
 
 ## Here are some of my GitHub stats:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nahlarmash&theme=dark)
